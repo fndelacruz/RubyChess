@@ -1,5 +1,5 @@
 require_relative "display"
-require_relative "pieces"
+require_relative "pieces/pieces"
 
 class Board
   attr_accessor :selected
